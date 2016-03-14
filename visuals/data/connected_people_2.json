@@ -1,0 +1,35 @@
+[
+  {
+    "key" : "active_users",
+    "values" : [
+      {
+        "user_name": "Jewel",
+        "points": 138
+      },
+      {
+        "user_name": "Cannon",
+        "points": 140
+      },
+      {
+        "user_name": "Kitty",
+        "points": 117
+      },
+      {
+        "user_name": "Carissa",
+        "points": 115
+      },
+      {
+        "user_name": "Rivers",
+        "points": 82
+      }
+    ]
+  },
+  {
+    "key" : "sentiment_spread",
+    "values" : {
+      "positive" : 48,
+      "neutral" : 35,
+      "negative" : 17
+    }
+  }
+]
